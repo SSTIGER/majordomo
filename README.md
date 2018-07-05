@@ -1,2 +1,2 @@
 # majordomo
-daguanjia
+大管家项目
